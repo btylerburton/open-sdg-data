@@ -11,6 +11,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-5-4,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#1-a-3,complete,,,,,,line
 #1-b-1,notstarted,,,,,,line
 #10-1-1,notstarted,World Bank (WB),,,,,line
 #10-2-1,notstarted,World Bank (WB),,,,,line
@@ -45,6 +46,7 @@ The World Trade Organization (WTO)",,,,,line
 UNFPA",,,,,line
 #11-b-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #11-b-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#11-c-1,complete,,,,,,line
 #12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
@@ -67,6 +69,7 @@ UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
 #13-2-2,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-3-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
+#13-3-2,complete,,,,,,line
 #13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-b-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #14-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
@@ -156,6 +159,7 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-4-1,notstarted,World Bank (WB),,,,,line
 #17-5-1,notstarted,United Nations Conference on Trade and Development (UNCTAD),,,,,line
 #17-6-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#17-6-2,complete,,,,,,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #17-8-1,notstarted,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line

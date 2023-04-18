@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low quintile",
+                "Middle low quintile",
+                "Middle quintile",
+                "Middle high quintile",
+                "High quintile",
+                ""
+              ]
+            },
+            "title": "Income"
           },
           {
             "name": "Value",

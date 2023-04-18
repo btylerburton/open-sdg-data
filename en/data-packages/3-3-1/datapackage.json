@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male_13_pls_y",
+                "female_13_pls_y",
+                ""
+              ]
+            },
+            "title": "sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13_24_y",
+                "25_34_y",
+                "35_44_y",
+                "45_54_y",
+                ""
+              ]
+            },
+            "title": "age"
+          },
+          {
+            "name": "race_ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "black_nh",
+                "white_nh",
+                "hispanic",
+                ""
+              ]
+            },
+            "title": "race_ethnicity"
           },
           {
             "name": "Value",

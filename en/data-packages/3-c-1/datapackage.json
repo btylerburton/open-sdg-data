@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "healthworker_dist_metro",
+                "healthworker_dist_nonmetro",
+                ""
+              ]
+            },
+            "title": "status"
           },
           {
             "name": "Value",

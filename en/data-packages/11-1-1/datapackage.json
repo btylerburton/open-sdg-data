@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "severity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "md_inadqt_hs",
+                "sv_inadqt_hs",
+                ""
+              ]
+            },
+            "title": "severity"
           },
           {
             "name": "Value",
